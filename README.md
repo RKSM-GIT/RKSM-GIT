@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RKSM-GIT
+- 👋 Hi, I’m @RKSM-GIT (RKS Mehul)
 - 👀 I’m interested in
     - C/C++, Python, dart
     - NodeJs, Flutter
