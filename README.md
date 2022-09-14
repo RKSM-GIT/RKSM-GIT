@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning
     - Django development
     - Competitive Programming
-    - React development
+    - Vue development
 
 <!---
 RKSM-GIT/RKSM-GIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
