@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @RKSM-GIT (RKS Mehul)
 - 👀 I’m interested in
-    - C/C++, Python, dart
-    - NodeJs, Flutter
-    - MongoDB, Firebase
+    - Rust, C++, Python, Java, Typescript
+    - Springboot, FastAPI
+    - Postgres, AWS
 - 🌱 I’m currently learning
-    - Django development
-    - Competitive Programming
-    - Vue development
+    - Advanced Rust (Async, concurrent programming)
+    - Design Patterns
+    - High Level System Architecture Design
 
 <!---
 RKSM-GIT/RKSM-GIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
